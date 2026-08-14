@@ -84,7 +84,7 @@
       "0.1.1": {
         "en": "Migration to ESLint 9 and @iobroker/eslint-config",
         "de": "Migration auf ESLint 9 und @iobroker/eslint-config",
-        "ru": "Migration to ESLint 9 and @iobroker/eslint-config",
+        "ru": "Миграция в ESLint 9 и @iobroker/eslint-config",
         "pt": "Migração para ESLint 9 e @iobroker/eslint-config",
         "nl": "Migratie naar ESLint 9 en @iobroker/eslint-config",
         "fr": "Migration vers ESLint 9 et @iobroker/eslint-config",
